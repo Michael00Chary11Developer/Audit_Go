@@ -1,0 +1,21 @@
+auditctl
+auditctl
+auditctl
+audispd
+which auditd
+systemctl status auditd
+ps aux | grep auditd
+in container => service auditd start
+sudo su - michael
+ssh username@host_ip
+
+hostname
+hostname -f
+uname -n
+ifconfig
+ip addr show
+hostnamectl
+pwd
+sudo tail -f /var/log/auth.log
+whoami
+id
